@@ -1,0 +1,9 @@
+This code will help you learn working with 'Pandas' and then do the exploratory data analysis.
+I am using data from two resources World bank and Gapminder.
+
+Useful libraries for this task
+numpy, for arrays
+pandas, for data frames
+matplotlib, for plotting
+Seaborn, for plotting
+Plotly, for dynamic plotting
