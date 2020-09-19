@@ -1,0 +1,2 @@
+By reading the csv file, plot the graph for 5 most frequently occurring tags and their respective frequencies.
+That means each tag will have its separate frequency.
